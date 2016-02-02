@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://TabtheVegan.github.io
+title: New Vegannings
+email: tabirobinson@hotmail.com
+author: Tab Robinson
+description: My awesome new site
+paginate: 3
+google_analytics: 
